@@ -6,3 +6,10 @@ body{
 .ss{
     text-align: center;
 }
+.S{
+    
+    width: 350px;
+    height: 300px;
+    border: 2.5px black solid ;
+
+}
